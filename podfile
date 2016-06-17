@@ -1,0 +1,20 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '8.0'
+# Uncomment this line if you're using Swift
+# use_frameworks!
+pod 'Masonry', '~> 1.0.1'
+pod 'SDCycleScrollView', '~> 1.65'
+pod 'SVProgressHUD', '~> 2.0.3'
+pod 'AFNetworking', '~> 3.1.0'
+target 'iOS 高级项目_电商' do
+
+end
+
+target 'iOS 高级项目_电商Tests' do
+
+end
+
+target 'iOS 高级项目_电商UITests' do
+
+end
+
